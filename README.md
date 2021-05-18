@@ -18,3 +18,10 @@
 
 * What browser will be used for primary testing?
     * Google Chrome
+
+* Which programming languages will be used?
+    * Javascript - front end and back end
+
+* what frameworks will be used?
+    * backend - Express.js on node
+    * front end  - React.js on node
